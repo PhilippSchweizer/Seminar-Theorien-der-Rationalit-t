@@ -26,6 +26,11 @@ Standorte des Textes
   :   D:/seminar-theorien-der-rationalitaet/pdf/cohen_irrationality.pdf
   :   D:/seminar-theorien-der-rationalitaet/pdf/Cohen 1981 _ Demonstrating irrationaliy.pdf
 
+Google Scholar "Cited by"
+
+  :   1058 (vgl. dazu @tversky1974 mit 36499 und z.B. @nisbett1980 mit 8137)
+  :   unter denen die Cohen zitieren hat @sloman1996 mit 2985 die meisten Bezüge dicht gefolgt von @murphy1985 mit 2502.
+
 Abstract
 
   :   
@@ -33,6 +38,28 @@ Abstract
 # Ziel des Textes
 
 # Struktur des Textes
+Ich übernehme (zumindest vorerst) die Einteilung wie sie von Cohen selber vorgenommen wurde. Die Seitenangaben beziehen sich (soweit nicht anders oder beides angegeben) auf @cohen1981.
+
+# Introduction (317--318)
+
+# I. The argument for rational competence (318--323)
+
+## I.1. Intuitions as the basis of normative criteria for the evaluation of deductions. (318--319)
+## I.2. Intuitions as the basis of normative criteria for the evaluation of probability judgments. (319--320)
+## I.3. The systematisation of normative intuitions. (320--321)
+## I.4. The derivation of an account of human competence in deductive or probabilistic reasoning. (321--323)
+
+
+# II. Four categories of research into defects of cognitive rationality (323--330)
+
+## II.1. Studies of cognitive illusions. (323--325)
+## II.2. Tests of intelligence or education. (325--326)
+## II.3. Misapplications of appropriate normative theory. (326--328)
+## II.4. Applications of inappropriate normative theory. (328--330)
+
+
+
+
 
 # Begriffe
 
