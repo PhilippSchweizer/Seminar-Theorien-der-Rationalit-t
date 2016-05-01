@@ -1,6 +1,5 @@
 ---
 title: \[Exzerpt\] *Can Human Irrationality be Experimentally Demonstrated?* von L. Jonathan Cohen
-subtitle: test
 author: Philipp Schweizer
 date: 2016-04-30
 lang: de-DE
@@ -49,14 +48,17 @@ Nachdem die Unterscheidung zwischen Kompetenz und Ausführung terminologisch gek
 
 
 # I. The argument for rational competence (318--323)
-Aufgabe: dieses Argument rekonstruieren!
+rational competence = ordinary human reasoning, ordinary people's intuitions of deducibility
+
+- "theory of deducibility for everyday reasoning"
+
 
 ## I.1. Intuitions as the basis of normative criteria for the evaluation of deductions. (318--319)
 
 1. Absatz: Forscher beziehen sich auf Logik-Lehrbücher für die Bewertung von Ableitbarkeit (*deducibility* = angewandte Logik?). Cohen will demgegenüber für die Intuition Normalsterblicher als Basis derselben argumentieren.
 2. Absatz: Cohen versteht unter einer Intuition dass *p*, eine spontane und ungeschulte Neigung zu urteilen dass *p*.
 3. Absatz: beinhaltet die Behauptung, dass die Alternative zur Intuition als Basis von Ableitbarkeit, d.i. ein System wissenschaftlicher Prozedur -- egal ob in empirischer oder mathematischer Ausformung -- nicht geeignet sei. (Rechtfertigungsproblem)
-4. Absatz beschreibt die empirisch-induktive Strategie zur Grundlegung von Ableitbarkeit. (angewandte Logik: Kombination aus ..., "hard-line positivism")
+4. Absatz beschreibt die empirisch-induktive Strategie als Versuch einer Grundlegung von Ableitbarkeit. (angewandte Logik: Kombination aus ..., "hard-line positivism")
 5. Absatz diskutiert vier gewichtige Schwierigkeiten der empirisch-induktiven Strategie.
     1. nicht frei von Intuition (a priori Status einiger regulativen Prinzipien von Theoriebildung)
     2. Nicht anwendbar auf normative Bereiche wie Recht oder Verwaltung.
@@ -92,6 +94,17 @@ Aufgabe: dieses Argument rekonstruieren!
 7. Absatz
 8. Absatz
 9. Absatz
+
+    Bootstrapping-These
+
+  :   "[N]ormative criteria for ordinary human reasoning rely for their substantiation on a procedure analogous to what is called 'boot strapping' in artificial intelligence". (142)
+
+Rationalität-These
+
+  :   Intuitionen normaler Menschen
+  :   > Basis eines kohärenten Systems von Regeln und Prinzipien
+  :   > viel umfassenderes und genaueres Schließen als auf der Grundlage von etwas anderem (?)
+  :   > Normale Menschen können nicht als intrinsisch irrational betrachtet werden.
 
 
 # II. Four categories of research into defects of cognitive rationality (323--330)
