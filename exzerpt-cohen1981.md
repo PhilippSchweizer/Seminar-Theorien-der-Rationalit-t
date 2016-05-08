@@ -10,7 +10,7 @@ header-includes:
 
 ---
 
-Exzerpierdatum
+Exzerpierdatum (Beginn)
 
   :   30. April 2016
 
@@ -95,16 +95,17 @@ rational competence = ordinary human reasoning, ordinary people's intuitions of 
 8. Absatz
 9. Absatz
 
-    Bootstrapping-These
+Bootstrapping-These
 
   :   "[N]ormative criteria for ordinary human reasoning rely for their substantiation on a procedure analogous to what is called 'boot strapping' in artificial intelligence". (142)
 
 Rationalität-These
 
+  :   [Platzhalter]
   :   Intuitionen normaler Menschen
-  :   > Basis eines kohärenten Systems von Regeln und Prinzipien
-  :   > viel umfassenderes und genaueres Schließen als auf der Grundlage von etwas anderem (?)
-  :   > Normale Menschen können nicht als intrinsisch irrational betrachtet werden.
+  :   `>` Basis eines kohärenten Systems von Regeln und Prinzipien
+  :   `>` viel umfassenderes und genaueres Schließen als auf der Grundlage von etwas anderem (?)
+  :   `>` Normale Menschen können nicht als intrinsisch irrational betrachtet werden.
 
 
 # II. Four categories of research into defects of cognitive rationality (323--330)
