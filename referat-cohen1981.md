@@ -1,5 +1,5 @@
 ---
-title: \[Handout\] 
+title: Referat über den Aufsatz *Can Human Irrationality Experimentally Demonstrated?* von L. Jonathan Cohen
 author: Philipp Schweizer
 date: 2016-04-30
 lang: de-DE
@@ -10,8 +10,10 @@ header-includes:
 
 ---
 ## Einführung
-Ich will euch heute den Text von Cohen vorstellen, der fragt ob menschliche Rationalität experimentell gezeigt werden kann. In seinem Paper nimmt er eine kritische Bewertung der experimentellen Forschung zur menschlichen Rationalität vor, die als Gültigkeit vom deduktiven und probabilistischen Schliessen aufgefasst. 
-Für sein kritisches Unterfangen dieses kritischen Forschung. Ziel seines Textes ist Widerscpruche in dieser Forschung aufzuzeigen, die F so darszustellen, dass F falsxhe Ansprüche erhebt.
+Ich will euch heute den Text von Cohen vorstellen, der fragt, ob menschliche Irrationalität experimentell bewiesen werden kann. In seinem Paper nimmt er eine kritische Bewertung der experimentellen Forschung zur menschlichen Rationalität vor, die als Gültigkeit in deduktivem und probabilistischem Schließen aufgefasst wird.
+
+Ziel seines Papers ist es, Widersprüche in dieser Forschung aufzuzeigen und den Beweis zu erbringen, dass sie falsche Ansprüche erhebt.
+
 Im ersten Teil mach er Begriffsarbeit. Es geht ihm darum..er erhofft sich, von einem begriffichen Rahmen eine Grundlage für ein kohärentes Bild menschlicher Rationalität. Es ist das, was der Forschung fehlt, sie hat kein koherentes Bild menschlicher Rationalität. die Begrifflichkeit ist nicht klar..
 Die erste Teil beschäftigt sich damit. Zu zeigen, dass Mensch sehr wohl eine menschliche Rationalität besitzt die durch diese Forschung.. ?
 Beide Teile sind jeweils in 4 Untersbschnitte untergeteilt und ich gehe jetzt diese Schritt für Schritt durch und hoffe dass ich... umfangreicher Text bringen kann
@@ -27,17 +29,20 @@ Die experimentellen Psychologen, die Cohen im Blick hat, gewinnen ihre normative
 Aber alle Forschung, die solche Normen zugrunde legt, müssen scheitern, im Versuch eine Theorie der menschlichen Alltagsrationalität zu formulieren. Aber um so eine Theorie, so verstehe ich Cohen, sollte es der experimentellen Psychologie doch gehen. Gerade wenn sie wissen will, ob der Mensch in seinem alltäglichen kognitiven Verhalten Fehler aufweist.
 
 Cohen bringt ein erstes Beispiel, das zeigen soll, wieso nur Intuitionen als Grundlage normativer Kriterien genommen werden können..
-[BEISPIEL]
+[BEISPIEL: JOHN - MINI - REICH - ARM]
 
 ### 1.2. Intuition als Basis von wahrscheinlichkeitsbezogenem Schließen
-In diesem Unterabschnitt geht es darum, inwieweit die Intuituon die Grundlage für die wahrscheinlichkeitsbezogene Urteile ist. 
-da zeigt er in 4 Schritten, inwieweit es 4 Mögliche Fälle... ob wir Wahrscheinlichkeit so verstehen/konzipieren, dass wir größtmögliche für Laienurteile in Bezug auf Wahrscheinlichkeit. Man muss die Konzeption der Wahrscheinlichkeit so wählen, dass diese Laienurteile am besten erklärt werden.
-Diese 4 Möglichkeiten werde ich hier nicht aufzählen, das war auch teioweise kompliziert. 
+In diesem Unterabschnitt geht es darum, inwieweit Intuition die Grundlage für wahrscheinlichkeitsbezogene Urteile ist. Er plädiert dafür, die Begriffe von Wahrscheinlichkeit so zu wählen, dass eine möglichst kohärente Darstellung von Laien-Urteilen gegeben werden kann.
+
+Er macht dann vier Fälle aus, in denen die Wahl des Wahrscheinlichkeitsbegriffs einen großen Unterschied machen kann.
+
 
 ### 1.3. Systematisierung von normativen Intuitionen
-Dritter Unterabschnitt des ersten Teils, "systematisiereung".. führt er eine Unterscheidung ein, zwischen dem engen ?? Gelichgewicht, und einem weiten reflektiven Gleichgewicht. und zwar, dieses enges reflektives Gleichgewicht wird hergestellt durch eine koherente Rekonstruktion von exisiterenden moralischen Prinzipien einer Person... das führt aber zu weit weg. 
-Wichtig sind diese beide Begriffe --> SNI
-Einprägsamer Satz: die Urteile alltäglichen SChliessens müssen in ihren eigenen Begriffen und ihren eigenen Standards entwickelt werden. und hier ist gemeint. also Urteile über alltägliches Schließens. DARÜBER urteilen,--> dann muss das geschehen in eigenen Begriffen und eigenen Standards.
+Im dritten Abschnitt von Teil 1 führt Cohen eine Unterscheidung normativer Intuitionen ein: zwischen einem engen und einem weiten reflektiven Gleichgewicht. Die normativen Intuitionen, um die es hier gehe, bräuchten ein enges reflektives Gleichgewicht.
+
+- eine kohärente Rekonstruktion von existierenden moralischen Prinzipien einer Person in denen 
+
+Urteile des alltäglichen Schließens müssen in ihren eigenen Begriffen und ihren eigenen Standards bewertet werden.
 
 ### 1.4. Herleitung einer Darstellung menschlicher Kompetenz in deduktivem und ws-bezogenem Schließen
 
@@ -48,7 +53,7 @@ Cohen fasst zusammen, wofür er in diesem ersten Teil argumentiert hat. Sein Arg
 
 Konklusion
 
-  :   Der Mensch (normale Leute) können nicht als intrinsisch irrational betrachtet werden.
+  :   Der Mensch (normale Leute) kann nicht als intrinsisch irrational betrachtet werden. (Wie es die experimentelle Psychologie manchmal behauptet.)
 
 Cohens Argument für logische Kompetenz besteht also wesentlich darin, für intrinsische Kriterien als Bewertungs- und Untersuchungsgrundlage zu plädieren. Jede Wahrnehmungsverzerrung kann als solche nur vor dem Hintergrund einer Norm festgestellt werden, sie ergibt erst in Zusammenhang mit dieser Norm einen Sinn.
 

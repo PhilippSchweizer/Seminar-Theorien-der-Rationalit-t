@@ -33,7 +33,7 @@ Google Scholar "Cited by"
 
 Abstract
 
-  :   Das Paper ist eine kritische Bewertung der experimentellen Forschung menschlicher Rationalität, die (in dieser Forschung) als Gültigkeit (*validity*) von deduktivem oder probabilistischem Schließen aufgefasst wird.
+  :   Das Paper ist eine kritische Bewertung der experimentellen Forschung menschlicher Rationalität, die als Gültigkeit (*validity*) von deduktivem oder probabilistischem Schließen aufgefasst wird. Cohen weißt die in dieser Forschung oft gemachte Behauptung zurück, wonach die logische Kompetenz des Menschen als fehlerhaft angesehen werden kann. Normal-menschliches logisches Denken setze seine eigenen Standards und könne daher nicht für fehlerhaft programmiert gehalten werden.
 
 
 # Struktur des Textes
