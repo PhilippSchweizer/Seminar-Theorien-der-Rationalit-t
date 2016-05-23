@@ -7,7 +7,6 @@ bibliography: rationalität-updated.bib
 header-includes:
   - \usepackage[german=guillemets]{csquotes}
   - \usepackage{libertine}
-
 ---
 
 Exzerpierdatum (Beginn)
@@ -23,8 +22,8 @@ Referenz
 Standorte des Textes
 
   :   http://fitelson.org/confirmation/cohen_irrationality.pdf
-  :   D:/seminar-theorien-der-rationalitaet/pdf/cohen_irrationality.pdf
-  :   D:/seminar-theorien-der-rationalitaet/pdf/Cohen 1981 _ Demonstrating irrationaliy.pdf
+  :   seminar-theorien-der-rationalitaet/pdf/cohen_irrationality.pdf
+  :   seminar-theorien-der-rationalitaet/pdf/Cohen 1981 _ Demonstrating irrationaliy.pdf
 
 Google Scholar "Cited by"
 
