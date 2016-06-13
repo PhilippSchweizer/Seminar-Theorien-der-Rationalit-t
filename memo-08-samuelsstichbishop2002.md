@@ -28,5 +28,13 @@ Vier normative Standards:
 
 Text für nächste Sitzung: Gigerenzer 2008 Boundad Rationality.
 
+# Nachtrag 13. Juni 2016
+
+- In dem Text fällt eine vage, verschleiernde Ausdrucksweise auf. Man beachte die doppelte Verneinung in folgendem Zitat:
+
+> It is hard, then, to sustain the view that evolutionary psychologists reject the claim that many of our probabilistic judgments deviate from the norms of probability theory. (S. 17)
+
+- Doppelte Negationen ...
+- auf welcher Ebene ist der Text anzusiedeln? 
 
 # Bibliographie
