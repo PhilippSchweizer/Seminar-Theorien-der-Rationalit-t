@@ -3,7 +3,7 @@ title: Seminar-Memo &raquo;Could Man be an Irrational Animal?&laquo;, *Theorien 
 author: Philipp Schweizer
 date: 2016-05-09
 lang: de-DE
-bibliography: rationalität-updated.bib
+bibliography: rationality.bib
 header-includes:
   - \usepackage[german=guillemets]{csquotes}
   - \usepackage{libertine}

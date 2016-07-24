@@ -3,7 +3,7 @@ title: Seminar-Memo &raquo;Heuristics and Biases&laquo;, *Theorien der Rationali
 author: Philipp Schweizer
 date: 2016-04-27
 lang: de-DE
-bibliography: rationalität-updated.bib
+bibliography: rationality.bib
 header-includes:
   - \usepackage[german=guillemets]{csquotes}
   - \usepackage{libertine}

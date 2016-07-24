@@ -3,20 +3,21 @@ title: \[Exzerpt\] *Can Human Irrationality be Experimentally Demonstrated?* von
 author: Philipp Schweizer
 date: 2016-04-30
 lang: de-DE
-bibliography: rationalität-updated.bib
+bibliography: rationality.bib
 header-includes:
   - \usepackage[german=guillemets]{csquotes}
   - \usepackage{libertine}
 ---
 
-Exzerpierdatum (Beginn)
+Exzerpierdatum
 
   :   30. April 2016
+  :   19. Juli 2016
 
 Referenz
 
-  :   Cohen, L. Jonathan. 1981. "Can Human Irrationality Be Experimentally Demonstrated?" Behavioral and Brain Sciences 4 (03): 317–31. doi:10.1017/S0140525X00009092.
-  :   Aber maßgeblich für dieses Exzerpt ist der Text in dieser Version:
+  :   Cohen, L. Jonathan. 1981. "Can Human Irrationality Be Experimentally Demonstrated?" Behavioral and Brain Sciences 4 (03): 317–31. doi:10.1017/S0140525X00009092. (Seitenzahlen in runden Klammern beziehen sich auf diese Version)
+  :   Für die erste Version dieses Exzerpts lag der Text in dieser Version vor, der aber gekürzt ist:
   :   Cohen, L. Jonathan. 2008. "Can Human Irrationality Be Experimentally Demonstraded?" In Reasoning. Studies of Human Inference and Its Foundations, herausgegeben von Jonathan E. Adler und Lance J. Rips, 136–55. Cambridge; New York: Cambridge University Press.
 
 Standorte des Textes
@@ -32,7 +33,7 @@ Google Scholar "Cited by"
 
 Abstract
 
-  :   Das Paper ist eine kritische Bewertung der experimentellen Forschung menschlicher Rationalität, die als Gültigkeit (*validity*) von deduktivem oder probabilistischem Schließen aufgefasst wird. Cohen weißt die in dieser Forschung oft gemachte Behauptung zurück, wonach die logische Kompetenz des Menschen als fehlerhaft angesehen werden kann. Normal-menschliches logisches Denken setze seine eigenen Standards und könne daher nicht für fehlerhaft programmiert gehalten werden.
+  :   Das Paper ist eine kritische Bewertung der experimentellen Forschung menschlicher Rationalität, die als Gültigkeit (*validity*) von deduktivem oder probabilistischem Schließen aufgefasst wird. Cohen weißt die in dieser Forschung oft gemachte Behauptung zurück, wonach die logische Kompetenz des Menschen als fehlerhaft angesehen werden kann. Normal-menschliches logisches Denken setze seine eigenen Standards und könne daher nicht für fehlerhaft programmiert gehalten werden. (30. April 2016)
 
 
 # Struktur des Textes
@@ -85,6 +86,9 @@ rational competence = ordinary human reasoning, ordinary people's intuitions of 
 
 ## I.4. The derivation of an account of human competence in deductive or probabilistic reasoning. (321--323)
 1. Absatz
+
+> "and the logician's datum is the validity or invalidity of a particular inference, not the intuition that assures us of it. So enquiry into the norms of everyday reasoning no more aims at a theory *about* intuitions than physics or chemistry aims at a theory *about* observations. Epistemology does not dominate ontology here."
+
 2. Absatz
 3. Absatz
 4. Absatz "no ideal conditions"

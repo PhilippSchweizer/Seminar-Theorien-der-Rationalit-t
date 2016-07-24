@@ -3,7 +3,7 @@ title: Seminar-Memo &raquo;Bounded and Rational&laquo;, *Theorien der Rationali�
 author: Philipp Schweizer
 date: 2016-06-13
 lang: de-DE
-bibliography: rationalität-updated.bib
+bibliography: rationality.bib
 header-includes:
   - \usepackage[german=guillemets]{csquotes}
   - \usepackage{libertine}
@@ -24,5 +24,11 @@ Teil 2:
 
 
 # Memo
+
+
+# Nachtrag (27. Juni 2016)
+
+- Gigerenzer: Adäquatheit einer Heuristik stets und nur daran zu messen, ob sie in einer bestimmten Umwelt funktioniert oder nicht. "Ich bewerte das Funktionieren der Heuristik in einer Umwelt."
+- plastischer Rationalitätsbegriff
 
 # Bibliographie

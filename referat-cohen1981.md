@@ -3,7 +3,7 @@ title: Referat über den Aufsatz *Can Human Irrationality Experimentally Demonst
 author: Philipp Schweizer
 date: 2016-04-30
 lang: de-DE
-bibliography: rationalität-updated.bib
+bibliography: rationality.bib
 header-includes:
   - \usepackage[german=guillemets]{csquotes}
   - \usepackage{libertine}

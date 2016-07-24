@@ -3,7 +3,7 @@ title: Seminar-Memo &raquo;Ending the rationality wars: How to make disputes abo
 author: Philipp Schweizer
 date: 2016-06-06
 lang: de-DE
-bibliography: rationalität-updated.bib
+bibliography: rationality.bib
 header-includes:
   - \usepackage[german=guillemets]{csquotes}
   - \usepackage{libertine}
