@@ -1,5 +1,5 @@
 ---
-title: Handout zum Referat über den Aufsatz *Can Human Irrationality Experimentally Demonstrated?* von L. Jonathan Cohen
+title: Handout zum Referat über den Aufsatz *Can Human Irrationality Be Experimentally Demonstrated?* von L. Jonathan Cohen
 author: Philipp Schweizer
 date: 2016-04-30
 lang: de-DE

@@ -2,6 +2,7 @@
 title: Hausarbeit Theorien der Rationalität
 author: Philipp Schweizer
 bibliography: rationality.bib
+csl: apa.csl
 header-includes:
   - \usepackage[german=guillemets]{csquotes}
   - \usepackage{libertine}
@@ -9,7 +10,7 @@ header-includes:
 
 Rund um @cohen1981, Seitenzahlen beziehen sich aber auf @cohen2008.
 
-
+<!--- Throughout the present paper, page references to Cohen without a year citation are all from (1981). -->
 
 # Tipps
 
@@ -66,3 +67,11 @@ Rund um @cohen1981, Seitenzahlen beziehen sich aber auf @cohen2008.
 Was ist Irrationalität? Was heißt es, dass eine Handlung rational oder irrational ist. Was kann alles rational oder irrational sein? Individuuen, Tiere, Institutionen, Nationen, (Produktions)verhältnisse? Gibt es einen Unterschied zwischen individueller und institutioneller Rationalität/Irrationalität? Ist Irrationalität einfach nur das Gegenteil von Rationalität?
 
 Irrationalität ist relativ. Sie ist an normative Bewertungskriterien gebunden und zwar vor allem an die für Rationalität. So kann es für eine Gesellschaft rational sein (oder erscheinen), dass nicht alle den gleichen Anteil am gesellschaftlichen Mehrprodukt haben, ja dass dieses höchst ungleich verteilt ist. Rational ist eine solche Ungleichverteilung dann, wenn die Gesellschaftsform oder ein bestimmter Staat von ihr abhängen. Vom Standpunkt einer Moral, die fordert, "alle Verhältnisse umzuwerfen in denen der Mensch ein erniedrigtes, ein geknechtetes, ein verlassenes, ein verächtliches Wesen ist", ist die soziale Ungerechtigkeit des Kapitalismus höchst unvernünftig. Die existierenden gesellschaftlichen Verhältnisse sind inhärent irrational. Ihr "bewußtloser Abdruck" ist der Irrationalismus als der "Vernunft einer vernunftlosen Gesellschaft." [@metscher2009, S. 45]
+
+
+<!---
+Was am Ende händisch gemacht werden muss:
+1. Anführungszeichen in Guillemets umwandeln (Bibliographie)
+2. alle Belege überprüfen, ggf. Autor unterdrücken
+3. "review of" in "review von" ändern
+-->
