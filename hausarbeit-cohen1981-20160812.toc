@@ -1,0 +1,21 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {german}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{3}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Cohens Argument für rationale Kompetenz}{5}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Intuitionen als Grundlage}{5}{subsection.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Kompetenz und Performanz}{7}{subsection.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Einwände gegen Cohens Argument}{7}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Erster Einwand}{7}{subsection.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Zweiter Einwand}{7}{subsection.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Fazit}{7}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Bibliographie}{8}{section*.2}

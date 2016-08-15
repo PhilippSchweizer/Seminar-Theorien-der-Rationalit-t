@@ -4,8 +4,39 @@ abstract: akademisches journal begleitend zu meiner hausarbeit rund um das thema
 bibliography: rationality.bib
 csl: apa.csl
 lang: de-DE
+documentclass: scrartcl
+classoption: 11pt, smallheadings
+header-includes:
+  - \usepackage[german=guillemets]{csquotes}
+  - \usepackage{libertine}
 ---
 
+
+# 15. August
+
+
+> "I argued that the attribution of a correct deductive and probabilistic competence to normal adults is implicit in the epistemological truism that conformity to normal intuitions is a necessary credential for theories about criteria of everyday deducibility and probability." [@cohen1981b, S. 362]
+
+- Warum?
+
+> "Our fellow humans have to be attributed a competence for reasoning validly, and this provides the backcloth against which we can study defects in their actual performance." (S. 317)
+
+- Das ist natürlich noch keine Antwort auf die Frage nach dem *Warum*. 
+
+> "His argument, in outline, is that the normative principles of reasoning and the psychological theory of reasoning competence (i.e., our internalized reasoning principles) are both generated in the same way from the same set of intuitive judgments about inferences, and so our competence must accord with the norms and therefore cannot, in principle, be faulted." (S. 67)
+
+- jetzt sind wir schon ein bisschen weiter:
+- die normativen Prinzipien des Denkens (d.i. eine normative Theorie des Denkens) und die psychologische Theorie unserer internalisierten Denkprinzipien (bzw. der Kompetenz im logischen Denken), werden beide auf die selbe Weise, auf dem selben Set intuitiver Urteile über Ableitungen generiert. das heißt unsere Kompetenz ist die Norm? bzw. unsere kompetenz muss mit der norm im einklang stehen bzw. umgekehrt
+- jetzt können wir fragen:
+  + ist die darstellung shiers korrekt?
+  + was heißt es, dass beide Theorien auf die selbe art generiert werden? dann kommen doch nicht zwei unterschiedliche theorien dabei raus!
+  + wessen, wieviele, wie beschaffene intuitionen sind in besagtem *Set*? (das ist die richtung in die shier geht glaub ich)
+  + sagt cohen wirlich, dass eine normative Theorie des Denkens *gleich* einer psychologischen Theorie unserer internalisierten Denkprinzipien ist? Normative Prinzipien des Denkens *gleich* internalisierter Denkprinzipien?
+
+
+- Inwiefern?
+- Wie funktionieren die Einwände dagegen? @shier2000, @zabell1981 ?
+- bisschen weiter sagt cohen sogar, dass dieses argument der einzige grund für ihn sei, rationalität der kompetenz anzunehmen (for assuming rationality of competence). [@cohen1981b, S. 362]
 
 # 10. August
 
@@ -32,13 +63,21 @@ Aber Cohen scheint die Frage für sein Unterfangen für irrelevant zu halten, *w
 
 Wie lässt sich "das beobachtete Ereignis, nicht der Akt der Beobachtung ist relevant" auf unseren Kontext übertragen? die Intuition, nicht der Akt ihrer Beobachtung ist relevant? was wäre denn der Akt der Beobachtung der Intuition?
 
-1. für jede "solche" (welche?) normative theorie gibt es raum, eine faktische theorie aufzustellen ()
+
+1. jede normative analyse des Alltagsschlussfolgerns muss sich in letzter Instanz auf Beweise aus Intuitionen verlassen. (I.3.)
+2. allgm. Teil über normative Theorien überhaupt (I.3.)
+    - wide range of significantly different kinds of intuitive inference...
+    - narrow range of significantly different kinds of intuitive inference...
+3. Punkt eins und zwei führen Cohen zu der Aussage, dass Urteile des alltäglichen Schließens nach ihren eigenen Begriffen und Standards bewertet werden müssen. Ähnlich zu einem Verfahren (?) in der Ethik, gilt es, die Schlussfolgerungen einer Person, die in ihren Intuitionen (implizit) enthalten sind, kohärent zu rekonstruieren und zu einem sogenannten engen reflektiven Gleichgewicht zusammenzufügen. Es ist mir hier überhaupt nicht klar, wann Cohen methodologische Fragen behandelt und wann "psychologische" oder "philosophische" oder ob das hier in eins fällt: das alltägliche Schließen einer normalen Person, eines normalen Menschen, befindet sich in einem engen (keine Widersprüche?) reflektivem (was hat es dann noch mit intuitionen zu tun?) Gleichgewicht und dieses 
+
+
+2. für jede "solche" (welche?) normative theorie gibt es raum, eine faktische theorie aufzustellen ()
 2. 
 
 
 # Der Ausgangspunkt
 
-Das Ziel von Cohens Paper ist ein begrifflicher Rahmen in dem kohärent über Probleme kognitiver Rationalität und der relevanten experimentellen Daten nachgedacht werden kann. [Vgl. @cohen1981, S. 317] Eine normative Theorie der Rationalität oder Irrationalität sei nur akzeptabel, wenn sie in entscheidenden Punkten mit ungeschulter Intuition übereinstimmt. Warum? Weil normales menschliches Schlussfolgern seine eigenen Standards setzt.
+Das Ziel von Cohens Paper ist ein begrifflicher Rahmen in dem kohärent über Probleme kognitiver Rationalität und der relevanten experimentellen Daten nachgedacht werden kann. [Vgl. @cohen1981a, S. 317] Eine normative Theorie der Rationalität oder Irrationalität sei nur akzeptabel, wenn sie in entscheidenden Punkten mit ungeschulter Intuition übereinstimmt. Warum? Weil normales menschliches Schlussfolgern seine eigenen Standards setzt.
 
 
 # Cohens Argument für rationale Kompetenz -- eine Sammlung von Aussagen, Prämissen und Thesen. Mit einer kleinen Chance auf ein richtiges Argument
@@ -48,7 +87,7 @@ Es gibt die Ansicht, meint Cohen und widerspricht ihr, wonach sich in guten Lehr
 
 Was meint Cohen hier? Menschen haben Intuitionen über Ableitbarkeit, im Sinne von "logischen Intuitionen", bzw. Intuitionen über was logisch und was unlogisch ist?
 
-> "Its closest analogue is an intuition of grammatical well-formedness. In short, an intuition that *p* is here just an immediate and untutored inclination, without evidence or inference, to judge that *p*." [@cohen1981, S. 318]
+> "Its closest analogue is an intuition of grammatical well-formedness. In short, an intuition that *p* is here just an immediate and untutored inclination, without evidence or inference, to judge that *p*." [@cohen1981a, S. 318]
 
 D.h. zum Beispiel, die *Intuition*, dass *a* aus *b* folgt, ist einfach die *spontane und ungeschulte Neigung* ohne Beweis oder Schlussfolgerung *zu urteilen* dass *a* aus *b* folgt.
 
@@ -62,7 +101,7 @@ Das Verfahren zur Grundlegung von Ableitbarkeit ist empirisch gestützt und indu
 - was als *logische* Wahrheit betrachtet wird, ist nur eine Komponente des holitischen Systems von dem was als *wissenschaftliche* Wahrheit betrachtet wird.
 - Hardline-Positivismus
 
-    > "They seem as much beholden to experiment and observation for their warranty as are any other scientific discoveries." [@cohen1981, S. 318]
+    > "They seem as much beholden to experiment and observation for their warranty as are any other scientific discoveries." [@cohen1981a, S. 318]
 
 ### Vier Probleme für eine empirisch-induktiven Strategie Ableitbarkeit zu fundieren. (Warum ein formales System natürlicher Deduktion nicht als Bewertungsgrundlage für alltägliches Schließen dienen kann.)
 
@@ -80,32 +119,32 @@ Das Verfahren zur Grundlegung von Ableitbarkeit ist empirisch gestützt und indu
 
 3. Problem:
 
-> "Hence, so far as we treat the totality of acceptable scientiﬁc hypotheses as constituting a single holistic system, we also need a single set of logical principles." [@cohen1981, S. 318]
+> "Hence, so far as we treat the totality of acceptable scientific hypotheses as constituting a single holistic system, we also need a single set of logical principles." [@cohen1981a, S. 318]
 
 4. Problem: Weil logisch wahre Aussagen in allen logisch möglichen Welten wahr sein müssen, reichen die Beweise dieser Welt bei weitem nicht aus um solche Aussagen aufzustellen.
 
-> "On all the issues that are much discussed [among applied logicians] an implicit or explicit appeal to intuition provides some of the vital premises for the applied logician's argument." [@cohen1981, S. 318]
+> "On all the issues that are much discussed [among applied logicians] an implicit or explicit appeal to intuition provides some of the vital premises for the applied logician's argument." [@cohen1981a, S. 318]
 
 Zu diesem Zitat stellt sich mir einmal mehr die Frage, was dass mit Cohens Argument zu tun hat, wie dieser Umstand sein Argument stützen kann.
 
 ## Zweite Option: meta-mathematisches Theorem und seine Probleme, Ableitbarkeit zu fundieren.
 
-> "Any system in which rules of derivation are speciﬁed in formal terms is said to be “sound” if under some interpretation for the formalism of the system it can be proved that from true premises these rules lead only to true conclusions." [@cohen1981, S. 318f.]
+> "Any system in which rules of derivation are specified in formal terms is said to be “sound” if under some interpretation for the formalism of the system it can be proved that from true premises these rules lead only to true conclusions." [@cohen1981a, S. 318f.]
 
 - eine hilfreiche definition eines korrekten (sound) formalen systems, bzw. für dessen korrektheit: es ist korrekt wenn nach mindestens einer interpretation des formalismus des systems bewiesen werden kann, dass von wahren premissen nur wahre konklusionen folgen können.
 
-> "So it might seem as though, by thus using a semantic deﬁnition of logical consequence to check on a syntactic one, the rationality of a set of inferential rules could be established by experts in a metamathematical proof, without any recourse to intuitions other than those involved in the perception of the proof (Dummett 1978)."
+> "So it might seem as though, by thus using a semantic definition of logical consequence to check on a syntactic one, the rationality of a set of inferential rules could be established by experts in a metamathematical proof, without any recourse to intuitions other than those involved in the perception of the proof (Dummett 1978)."
 
 - Es scheine, als ob die rationalität eines Sets von Ableitungsregeln von Experten nachgewiesen werden kann, indem diese mit einer semantischen Definition von logischer Konsequenz eine syntaktische Definition logischer Konsequenz überprüfen ??? und das alles ohne bezug auf Intuitionen 
 
-> "No reason is provided for supposing that the deductive liaisons of the logical particles of natural language can be mapped onto those of the connectives and quantiﬁers in the normal system that is proved to be sound." [@cohen1981, S. 319]
+> "No reason is provided for supposing that the deductive liaisons of the logical particles of natural language can be mapped onto those of the connectives and quantifiers in the normal system that is proved to be sound." [@cohen1981a, S. 319]
 
 - Hier kommt das Problem, dass er mit folgendem John-Mini-Rolls Beispiel untermauert: dass kein Grund gegeben wird (durch einen meta-mathematischen Beweis) anzunehmen, dass die logischen partikel natürlicher sprache auf die konnektoren und quantoren des formalen systems abgebildet werden können.
 
 
 Der Vergleich zwischen der formalen Equivalenz zweier logischen Formeln mit dem john-mini-rolls Beispiel.
 
-> "So we cannot avoid appealing to intuitions of inerential validity in order to determine the claim of an interpreted formal system to constitute a theory of deducibilty for everday reasoning." [@cohen1981, S. 319]
+> "So we cannot avoid appealing to intuitions of inerential validity in order to determine the claim of an interpreted formal system to constitute a theory of deducibilty for everday reasoning." [@cohen1981a, S. 319]
 
 - In diesem Zitat findet sich eine wichtige und gut fundierte Prämisse von Cohens Argument für rationale Kompetenz ...
 - eine Theorie der Ableitbarkeit für alltägliches Schlussfolgern
@@ -125,7 +164,7 @@ und
 
 einen gültigen Schluss für den Bereich des alltäglichen Schließens darstellt, kann gegen das John-Mini-Rolls Beispiel getestet werden, wobei festgestellt werden muss, dass diese Regel für das alltägliche Schließen nicht gültig ist. (Warum der Einwand, dass es hier auf die Bedeutung der logischen Partikel "und", "oder" und "wenn" ankommt, laut Cohen nicht zieht, konnte ich nicht nachvollziehen: weder den einwand noch seine zurückweisung um genau zu sein.)
 
-> "[...] knowing the meanings of 'if', 'and', and 'or' is indistinguishable from knowing, in principle, their legitimate deductive liaisons." [@cohen1981, S. 319]
+> "[...] knowing the meanings of 'if', 'and', and 'or' is indistinguishable from knowing, in principle, their legitimate deductive liaisons." [@cohen1981a, S. 319]
 
 
 
@@ -135,7 +174,7 @@ einen gültigen Schluss für den Bereich des alltäglichen Schließens darstellt
 
 Für Cohen ist die Frage relevant, welche Begriffe der Wahrscheinlichkeit im alltäglichen Schließen von Laien wirksam sind. (Laien, wie sie oft Probanden in den Experimenten der kognitiven Psychologen sind.)
 
-> "In order to discover what criteria of probability are appropriate for the evaluation of lay reasoning we have to investigate what judgments of probability are intuitively acceptable to lay adults and what rational constraints these judgments are supposed to place on one another. We have to select the conception or conceptions of probability in terms of which the most coherent account of lay judgments can be given, rather than evalutate those judgments by some single independently established standard." [@cohen1981, S. 319]
+> "In order to discover what criteria of probability are appropriate for the evaluation of lay reasoning we have to investigate what judgments of probability are intuitively acceptable to lay adults and what rational constraints these judgments are supposed to place on one another. We have to select the conception or conceptions of probability in terms of which the most coherent account of lay judgments can be given, rather than evalutate those judgments by some single independently established standard." [@cohen1981a, S. 319]
 
 Das heißt im Umkehrschluss: die Frage, ob das alltägliche probabilistische Schließen einem "einzigen unabhängig aufgestellten Standard" entspricht, ist für ihn eine falsche/irrelevante/triviale Frage. Das könnte man mit der Entgegnung von Tversky (oder war es Kahnemann?) kontrastieren, wonach die Frage in diesen Experimenten (unter anderem) genau war, ob man "höhere" Wahrscheinlichkeitstheorie und Logik "aus der Natur" lernen kann, ob der Mensch im Laufe der Evolution in diesem Sinne gelernt hat. Nun stellen die Forscher fest: dem ist offenbar nicht so. Davon den Schluss zu ziehen, dass die menschliche Vernunft besorgniserregend unvernünftig ist, ist natürlich überzogen. Aber diese ganze Forschung auf diese Aussage zu reduzieren ist es genauso.
 
@@ -149,7 +188,7 @@ Die Wahl des Wahrscheinlichkeitsbegriffs macht auf vier Arten einen Unterschied:
 
 ## 3. Systematisierung normativer Intuitionen
 
-> "It has been argued so far that any normative analysis of everyday reasoning -- any statement that such and such lay judgements of deducibility or probability are correct, or incorrect, as the case may be -- must in the end rely for its defence on the evidence of relevant intuitions." [@cohen1981, S. 320]
+> "It has been argued so far that any normative analysis of everyday reasoning -- any statement that such and such lay judgements of deducibility or probability are correct, or incorrect, as the case may be -- must in the end rely for its defence on the evidence of relevant intuitions." [@cohen1981a, S. 320]
 
 - was heißt "evidence of (relevant) intuitions"?
     + of = aus, von, über
@@ -164,7 +203,11 @@ Die Wahl des Wahrscheinlichkeitsbegriffs macht auf vier Arten einen Unterschied:
     + waren seine ausführungen gegen einen vermeintlichen Hardline-Positivismus überhaupt nötig? Hier hat er in erster Linie gezeigt, dass letztlich jedem Standard Intuitionen (Urteil ohne Beweis und Argument) zugrunde liegen, d.i. letzte nur vorausgesetzte *a priori* Prämissen. Aber ist dieser Punkt nicht trivial? Ist es nicht klar, dass jedes Argument Prämissen beinhaltet, für die ihrerseits nicht argumentiert wird, die einfach vorausgesetzt werden.
     + Wenn selbst höhere Theorie in letzter Instanz (oder in erster?) auf Intuitionen beruht, dann haben sie doch was gemeinsam mit Laientheorien, dann disqualifiziert sie das doch nicht, als Bewertungsmaßstab für Laientheorien zu dienen?!
 
-> "Of course, on any issue that can be settled empirically we naturally treat intuitions only as hunches that either will be confirmed by favourable observations or will give way to counter-oberservations. [...] But on indisputably normative issues -- on issues about how people *may* or *ought to* think or behave, as distinct from how they *do* -- we cannot expect a major point at stake to be settled by oberservation." [@cohen1981, S. 320]
+> "Of course, on any issue that can be settled empirically we naturally treat intuitions only as hunches that either will be confirmed by favourable observations or will give way to counter-oberservations. [...] But on indisputably normative issues -- on issues about how people *may* or *ought to* think or behave, as distinct from how they *do* -- we cannot expect a major point at stake to be settled by oberservation." [@cohen1981a, S. 320]
+
+1. Fragen der Logik, Wahrscheinlichkeitstheorie usw. sind für Cohen "unbestreitbar normativ". Wie Menschen denken oder sich verhalten *sollten* ist eine normative Frage. Wie sie *denken* und wie sie sich *verhalten* kann beobachtet werden. Durch Beobachtung können wir das *Sollen* nicht entscheiden.
+
+2. Aber wo liegt die Grenze zwischen: "kann empirisch entschieden werden" und "ist unbestreitbar normativ"? Wie geht Cohen mit der Tatsache um, dass auch die Beobachtung normativ ist bzw. normative Anteile hat? Und ist es nicht eigentlich so, dass für ihn die Beobachtung für eine normative Theorie durchaus eine Rolle spielt (ich glaube ich bin verwirrt durch die andere unterscheidung factual theory / normative theory, die mir nicht die gleiche unterscheidung wie diese hier (zwischen beobachtung und norm) zu sein scheint)?
 
 - wer hat hier nochmal drauf geantwortet? dass *ist* und *sollen* oft zusammenfallen? @lycan1981 hat Cohen zustimmend geantwortet:
 
@@ -172,7 +215,8 @@ Die Wahl des Wahrscheinlichkeitsbegriffs macht auf vier Arten einen Unterschied:
 
 - @lycan1981 weist aber darauf hin, dass Schlüsselbegriffe der Logik und Epistemologie durch und durch normativ sind. Das heißt, die Fälle die laut Cohen empirisch entschieden werden können, beinhalten ihrerseits ein Sollen. Die Trennung die er aufmacht, ist, so meine Vermutung, zu grob, zu undialektisch, lässt sich als ungültige entgegensetzung entlarven. (bei Rosenberg habe ich gelesen, dass man eine kritik so aufbauen kann: "das verlorene gegenstück" oder so ähnlich)
 
-- um eine verständliche Theorie aufzubauen, müssen Hypothesen gegen Intuitionen von Außenstehenden überprüft werden. So könne zum Beispiel die Tätigkeit der Gerichte viele Hinweise für eine Theorie von Laien-Intuitionen über Wahrscheinlichkeit in juristischem Schlussfolgern liefern.
+- um ein umfassendes System einer Theorie (über was?) aufzubauen, müssen Hypothesen (über was?) an Intuitionen Außenstehendenr überprüft werden. So könne zum Beispiel die Tätigkeit der Gerichte viele Beweise für eine Theorie von Laien-Intuitionen über Wahrscheinlichkeit in juristischem Schlussfolgern liefern.
+    + die frage wäre: wie schlussfolgern Laien in probabilitischen Fragen/Problemen in einem juristischen/gerichtlichen Kontext? Beobachten wir, wie Richter, Anwälte, Staatsanwälte, Zeugen usw. es vor Gericht tun!
     + man verstehe cohen nicht falsch: er sagt nicht, dass die Praxis der Gerichte als Grundlage für eine Wahrscheinlichkeitstheorie genommen werden können sondern als Grundlage für eine Theorie darüber, wie Laien probabilistisch schließen. Und das ist es, womit sich die Psychologie auseinandersetzen sollte: wie Menschen probabilistisch schließen und nicht, ob sie es gemäß *einem bestimmten Standard* tun.
 
 - normative Theorien seien besser gestützt, wenn sie für eine weite statt enge Spanne von siginifikant unterschiedlichen Arten von intuitiven Ableitungen und Urteilen gelten. (Wenn ihnen ein weites reflektives Gleichgewicht zugrunde liegt?)
@@ -183,6 +227,8 @@ Die Wahl des Wahrscheinlichkeitsbegriffs macht auf vier Arten einen Unterschied:
 ## 4. Herleitung einer Darstellung menschlicher Kompetenz in deduktivem und probiblistischem Schließen
 
 > "So enquiry into the norms of everyday reasoning no more aims at a theory *about* intuitions than physics or chemistry aims at a theory *about* observations. Epistemology does not dominate ontology here." (S. 321)
+
+> "This factual theory of competence will be just as idealised as the normative theory from which it derives. And though it is a contribution to the psychology of cognition it is a by-product of the logical or philosophical analysis of norms rather than something that experimentally oriented psychologists need to devote effort to constructing. It is not only all the theory of competence that is needed in its area. It is also all that is possible, since a different competence, if it actually existed, would just generate evidence that called for a revision of the corresponding normative theory." (S. 321)
 
 - worum es in der psychologie gehen sollte: die normen des alltäglichen Schließens, in epistemologischer perspektive
 
@@ -221,6 +267,10 @@ Die Wahl des Wahrscheinlichkeitsbegriffs macht auf vier Arten einen Unterschied:
 
 ### Argument: menschliche Rationalität als Tatsache
 
+
+> "However, nothing in the existing literature on cognitive reasoning, or in any possible future results of human experimental enquiry, could have bleak implications for human rationality, in the sence of implications that establish a faulty competence." (S. 330)
+
+
 1. Wenn eine normative Theorie [von was?] letztlich auf Daten menschlicher Intuition beruhen muss ...
 2. ... dann muss es richtig sein, menschlichen Wesen eine kognitive Kompetenz zuzuschreiben, die Punkt für Punkt mit dieser Theorie übereinstimmt.
 3. Nach dieser Theorie kann die menschliche kognitive Kompetenz nicht fehlerhaft sein.
@@ -231,10 +281,18 @@ Er ist der Meinung, dass das alltägliche Denken und Schließen und Handeln von 
 
 Cohen macht ein *a priori* Argument für menschliche Rationalität. @shier2000 fragt, ob man die menschliche Rationalität *a priori* verteidigen kann. Vielleicht sollte ich diesen Streit verfolgen?
 
+> "His argument, in outline, is that the normative principles of reasoning and the psychological theory of reasoning competence (i.e., our internalized reasoning principles) are both generated in the same way from the same set of intuitive judgments about inferences, and so our competence must accord with the norms and therefore cannot, in principle, be faulted." (S. 67)
+
+> "It is an *a priori* epistemological argument about the limitations on any community's judgments about certain of its own practices, and ultimately it says nothing about the actual character of human reasoning. Therefore, even if his argument were granted, Cohen should not be seen as defending human reasoning from its critics, but instead as rendering human reasoning totally *indefensible*." (S. 68)
 
 
+> "At the heart of Cohen's argument are two claims?one about the origin of the normative principles governing reasoning and one about the origin of the descriptive psychological theory of reasoning." (S. 69)
 
+> "It is not difficult to feel the pull of the position. After all, unless the norms of reasoning are handed down to us by a god on a mountaintop, then it may seem plausible that we must ultimately start with only our own intuitive judgments about what follows from what and build our theories from there. However, even if one were to grant that the authority of reasoning norms ultimately derives from such intuitions, it would not follow that each of our intuitions was authoritative." (S. 69)
 
+> " What is needed is a principled account of how a normative theory of reasoning is to be generated from the raw data of intuitions, and Cohen sets out to describe this process." (S. 70)
+
+> "What Cohen does dispute is the theoretical interpretation of these errors. While some researchers interpret systematic errors as stemming from a defective set of internalized inference rules, Cohen instead proposes a perfect underlying set of rules and endeavors to attribute all genuine errors to the existence of various performance obstacles and cognitive illusions, which inhibit the proper exercise of this flawless capacity for reasoning." (S. 72)
 
 
 
@@ -308,7 +366,7 @@ Zwei Arten von Kompetenz
 
     + danach hätte der andauernde gebrauch eines irrigen Schließens düstere genetische Konsequenzen gehabt und sei daher sehr unwahrscheinlich
     
-        > "How strange that the top species in an evolutionary struggle for survival should end up with such lethal genes!" [@cohen1980, S. 91, zit. n. @einhorn1981, S. 335]
+        > "How strange that the top species in an evolutionary struggle for survival should end up with such lethal genes!" [Cohen 1980, S. 91, zit. n. @einhorn1981, S. 335]
 
     + @einhorn1981 finden die Existenz eines anhaltenden dysfunktionalen Mechanismus nicht inkompatibel mit einem evolutionären Rahmen (laut @einhorn1981 kann es durchaus dysfunktionale Mechanismen in einem evolutionären Rahmen geben.)
 
@@ -394,8 +452,11 @@ Kyburg sieht drei Fragen, die eine Rolle spielen:
 # Wichtige Begriffe (ihre Bedeutung und deutsche Entsprechung)
 
 - deducibility = Ableitbarkeit
-- inference = Schlußfolgerung, Folgerung, Schluß, Inferenz
+- inference = Schlußfolgerung, Folgerung, Schluß, Inferenz, Ableitung
 - inference rule = Ableitungsregel
+- reasoning = (logisches) Denken, Schlussfolgern
+- reason = logisch denken, schlussfolgern
+- unimpeachable = unanfechtbar
 
 
 

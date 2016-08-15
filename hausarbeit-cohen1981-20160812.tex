@@ -1,0 +1,320 @@
+\documentclass[ngerman,12pt, titlepage, smallheadings, nomath]{scrartcl}
+\usepackage[]{libertine}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \usepackage{fontspec}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Kompetenz und Performanz im Schlussfolgern},
+            pdfauthor={Philipp Schweizer},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[shorthands=off,main=ngerman]{babel}
+\else
+  \usepackage{polyglossia}
+  \setmainlanguage[]{german}
+\fi
+\usepackage{biblatex}
+
+\addbibresource{rationality.bib}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\usepackage[german=guillemets]{csquotes}
+\usepackage[width=14cm, height=23cm]{geometry}
+\usepackage[doublespacing]{setspace}
+
+\title{Kompetenz und Performanz im Schlussfolgern}
+\providecommand{\subtitle}[1]{}
+\subtitle{Zur Konsequenz einer Unterscheidung von L. Jonathan Cohen}
+\author{Philipp Schweizer}
+\publishers{Essay im Seminar ``Theorien der Rationalität'' von Prof.~Dr.~Thomas
+Sturm, SoSe 2016, Goethe-Universität Frankfurt/M., Institut für
+Philosophie}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\newpage
+
+\section{Einleitung}\label{einleitung}
+
+\vspace{-1.25em}
+
+Eine Nachbarin hat sich aus ihrer Wohnung ausgesperrt. Der Ofen steht
+auf 300 °C und das Backgut droht zu verbrennen. In ihrer Verzweiflung
+läuft sie auf die Straße, um Hilfe zu holen und sieht, dass ich auf dem
+Balkon sitze. Ganz aufgelöst und außer Atem kommt sie auf mich zu und
+bittet mich um Hilfe. Über den Balkon im Erdgeschoss erreiche ich ihre
+Wohnung im ersten Stock und kann die Tür von innen öffnen (die Balkontür
+ist geöffnet).
+
+Hat meine Nachbarin vernünftig gehandelt? Konnte sie sich darauf
+verlassen, dass ich kletternd den ersten Stock erreichen würde? Anhand
+welcher Kriterien, auf Grundlage welcher Normen können wir ihr Handeln
+beurteilen? Und als Psychologen: sollten wir ihr Handeln, und das diesem
+zugrunde liegende Schlussfolgern, überhaupt beurteilen? Die Fragen die
+sich an diesen Fall richten lassen, verweisen auf das, wofür L. Jonathan
+Cohen in seinem vieldiskutierten Artikel \emph{Can Human Irrationality
+Be Experimentally Demonstrated?} argumentiert
+\autocite*{cohen1981a}\footnote{Zwischen 1981 und 1987 veröffentliche
+  die Zeitschrift \emph{The Behavioral and Brain Sciences} 44 offene
+  Peer-Kommentare zu Cohens ursprünglichem Artikel, sowie vier Antworten
+  von Cohen \autocites{cohen1981b}{cohen1983}{cohen1984}{cohen1987}.
+  Seitenangaben zu Cohen ohne Jahr beziehen sich im Folgenden immer auf
+  \autocite*{cohen1981a}.}. Darin richtet er sich gegen eine Strömung
+innerhalb der kognitiven und experimentellen Psychologie, die die
+Fehlerhaftigkeit menschlicher Rationalität betont, festgestellt in
+Laborstudien in denen Probanden Denksportaufgaben lösen sollten. Die
+Vorreiter dieser Strömung, Amos Tversky und Daniel Kahneman,
+konstatierten in ihren Experimenten vermeintlich allgemein und manifest
+auftretende Verzerrungen des deduktiven und probabilistischem
+Schlussfolgern normaler Menschen und führten diese auf kognitive
+Heuristiken zurück \autocite*{tversky1974}. So führe zum Beispiel die
+Repräsentativitätsheuristik zu falschen Schlüssen im sogenannten
+Linda-Problem in dem Probanden eine Personenbeschreibung von Linda
+gegeben wird (die sie unter anderem als sozial engagiert beschreibt) und
+sie dann einschätzen sollen, ob es wahrscheinlicher ist, dass Linda
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  Bankangestellte, oder
+\item
+  Bankangestellte und feministische Aktivistin ist.
+\end{enumerate}
+
+\textcite{kahneman2012} argumentiert in diesem Fall, dass es mit
+\emph{a)} eine im Sinne der Logik der Wahrscheinlichkeit richtige
+Antwort gibt, weil die Menge feministischer Bankangestelter vollständig
+in der Menge der Bankangestelten enthalten ist. Kahneman berichtet, dass
+er und Tversky überrascht waren festzustellen, \enquote{dass 89 Prozent
+der Studenten in {[}der{]} Stichprobe gegen die Logik der
+Wahrscheinlichkeit verstießen.} \autocite*[Kap. 15]{kahneman2012}
+
+Gegen die Ansicht, dass dieses und andere ähnlich gelagerte Experimente
+beweisen, dass menschliches Schließen systematisch fehlerhaft ist,
+wendet sich Cohen mit seinem Artikel. Er nennt es eine
+erkenntnistheoretische Binsenweisheit, dass normative Kriterien der
+Alltagsableitbarkeit und - wahrscheinlichkeit mit Intuitionen normaler
+Menschen übereinstimmen müssen. Ausgehend davon kommt man nicht umhin,
+normalen Erwachsenen eine grundsätzlich korrekte deduktive und
+probabilsitische Kompetenz zuzuschreiben \autocite[362]{cohen1981b}. Zur
+Stützung dieses Arguments unterscheidet Cohen zwischen Kompetenz und
+Performanz des menschlichen logischen Denkens, eine Unterscheidung die
+Chomsky in die Linguistik eingeführt hatte (S. 321;
+\textcite{eells1991}, S. 11). Auf Grundlage einer normativen Theorie der
+menschlichen rationalen Kompetenz, die Aussagen darüber trifft, wozu
+normale Erwachsene kognitiv in der Lage sind, lässt sich niemals die
+systematische Fehlerhaftigkeit eben dieser Kompetenz feststellen, weil
+sie ihre Normativität, ihren Bewertungsmaßstab aus alltäglichen
+Intuitionen bezieht: das normale menschliche Schließen setzt seine
+eigenen Standards (S. 317).
+
+Dieses \emph{a priori} Argument für menschliche Kompetenz in deduktivem
+und probabilitischem Schließen ist Gegenstand dieses Essays
+\autocite[vgl.][S. 68]{shier2000}.\footnote{\enquote{It is an a priori
+  epistemological argument about the limitations on any community's
+  judgments about certain of its own practices, and ultimately it says
+  nothing about the actual character of human reasoning. Therefore, even
+  if his argument were granted, Cohen should not be seen as defending
+  human reasoning from its critics, but instead as rendering human
+  reasoning totally indefensible.}} Dabei steht die Frage im
+Mittelpunkt, ob Cohen berechtigt ist zu behaupten, dass psychologische
+Experimente niemals die systematische Fehlerhaftigkeit menschlicher
+Rationalität zeigen können (S. 330)\footnote{\enquote{However, nothing
+  in the existing literature on cognitive reasoning, or in any possible
+  future results of human experimental enquiry, could have bleak
+  implications for human rationality, in the sence of implications that
+  establish a faulty competence.}} und das experimentelle Psychologen
+überhaupt nichts über diese Kompetenz aussagen können (S.
+321).\footnote{\enquote{This factual theory of competence will be just
+  as idealised as the normative theory from which it derives. And though
+  it is a contribution to the psychology of cognition it is a by-product
+  of the logical or philosophical analysis of norms rather than
+  something that experimentally oriented psychologists need to devote
+  effort to constructing. It is not only all the theory of competence
+  that is needed in its area. It is also all that is possible, since a
+  different competence, if it actually existed, would just generate
+  evidence that called for a revision of the corresponding normative
+  theory.}}
+
+\section{Cohens Argument für rationale
+Kompetenz}\label{cohens-argument-fuxfcr-rationale-kompetenz}
+
+\vspace{-1.25em}
+
+\subsection{Intuitionen als Grundlage}\label{intuitionen-als-grundlage}
+
+\vspace{-1.25em}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Welche Qualitäten müssen normative Theorien des logischen Denkens
+  aufweisen?
+\item
+  Sie müssen \ldots{} Intuitionen
+\item
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \setcounter{enumii}{3}
+  \item
+    \begin{enumerate}
+    \def\labelenumiii{\alph{enumiii}.}
+    \setcounter{enumiii}{7}
+    \tightlist
+    \item
+      die beweisgrundlage einer solchen normativen theorie bilden
+      wirkliche Fälle logischen Denkens wie man es bei \enquote{Laien}
+      beobachten kann. Solche Fälle nennt Cohen \emph{Intuitionen}, also
+      die \emph{spontane und ungeschulte Neigung} ohne Beweis oder
+      Schlussfolgerung über einen logischen oder probabilitischen
+      Sachverhalt \emph{zu urteilen} (S. 318).
+    \end{enumerate}
+  \end{enumerate}
+\item
+  diese Intuitionen werden im Zuge der theoriebildung nicht bewertet,
+  sondern interpretiert: aus ihnen will man ableiten, wozu normale
+  Menschen im logischen Denken in der Lage sind im Unterschied zu dem,
+  wozu sie sich in der lage zeigen. aus diesen intuitionen soll die
+  allgemeine kompetenz des logischen denkens abgeleitet werden.
+\item
+  jetzt wird auch klar, warum diese kompetenz nicht für grundsätlich
+  fehlerhaft gehalten werden kann und auch nicht der fehlerhaftigkeit im
+  experiment überführt werden kann: die Standards die uns zu ihrer
+  bewertung zur verfügung stehen, sind von ihr selbst gesetzt (im
+  beispiel john-mini-rolls: beides intuitionen die von der theorie
+  erklärt werden müssen und in der normativen theorie des logischen
+  denkens auch gar nicht im widerspruch stehen)
+\item
+  vor dem hintergrund dieser kompetenz, gültig zu schließen, können wir
+  nun fehler, auch systematische fehler, damit erklären, dass die
+  kompetenz, bzw. die theorie mit der wie sie beschreiben, natürlich
+  idealisiert ist: eine fehlfunktion eines informationsverarbeitenden
+  mechanismus muss angenommen und ihre erklärung gesucht werden (317).
+\end{enumerate}
+
+\begin{quote}
+\enquote{The fact is that conditions are rarely, if ever, ideal for the
+exercise of such a competence. {[}\ldots{}{]} a variety of factors may
+interfere with the excercise of a competence for deductive or
+probabilistic reasoning.} (S. 322)
+\end{quote}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
+\item
+  weil die Intuitionen zur Grundlage eine notwendige Bedingung einer
+  normativen theorie des logischen Denkens sind, ist eine
+\end{enumerate}
+
+In der Tat geht Cohen nicht darauf ein, \emph{wie} ein solcher Fall
+beschaffen sein muss, um als Beweis dienen zu können: muss es sich um
+weitverbreitete Ansichten handeln? Wieviel Interpretation steckt in
+einer Intuition, bevor sie als Beweis dienen kann? Wie wird mit diesem
+Problem umgegangen?
+
+Die Thesen die Cohen aufstellt
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  kein ergebniss experimenteller Untersuchung (des Menschen) kann eine
+  fehlerhafte kompetenz implizieren (S. 330)
+\item
+  die faktische theorie der kompetenz ist zwar ein beitrag zur
+  psychologie des erkenntnisvermögens (cognition), aber nichts worum
+  sich experimentell orientierte Philosophen kümmern müssten. denn diese
+  faktische theorie und die normative theorie von der sie stammt, von
+  der sie abgeleitet wird, ist ein nebenprodukt der logischen oder
+  philosophischen analyse von normen (S. 321).
+\end{enumerate}
+
+\textbf{\enquote{the credentials of those normative theories \ldots{}}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\item
+  Eine normative Theorie, mit der die Rationalität oder Irrationalität
+  von Laien und ihren naiven Schlussfolgerungen oder
+  Wahrscheinlichkeitsurteilen bewertet wird, muss in entscheidenden
+  Punkten mit Beweisen im Einklang sein, die aus Fällen ungeschulter
+  Intuition gewonnen werden (S. 317).
+\item
+  Daraus folgt, dass normales menschliches logisches Denken (reasoning)
+  nicht für fehlerhaft programmiert gehalten werden kann: es setzt seine
+  eigenen Standards (S. 317).
+\end{enumerate}
+
+\subsection{Kompetenz und Performanz}\label{kompetenz-und-performanz}
+
+\vspace{-1.25em}
+
+\section{Einwände gegen Cohens
+Argument}\label{einwuxe4nde-gegen-cohens-argument}
+
+\vspace{-1.25em}
+
+\subsection{Erster Einwand}\label{erster-einwand}
+
+\vspace{-1.25em}
+
+\subsection{Zweiter Einwand}\label{zweiter-einwand}
+
+\vspace{-1.25em}
+
+\section{Fazit}\label{fazit}
+
+\vspace{-1.25em}
+
+\newpage
+
+\section*{Bibliographie}\label{bibliographie}
+\addcontentsline{toc}{section}{Bibliographie}
+
+\vspace{-1.25em}
+
+\printbibliography
+
+\end{document}

@@ -1,11 +1,21 @@
 ---
-title: Hausarbeit Theorien der Rationalität
+title: Kompetenz und Performanz im Schlussfolgern
+subtitle: Zur Konsequenz einer Unterscheidung von L. Jonathan Cohen
 author: Philipp Schweizer
+publishers: Im Seminar "Theorien der Rationalität" von Prof. Dr. Thomas Sturm, SoSe 2016, Goethe-Universität Frankfurt, Institut für Philosophie
 bibliography: rationality.bib
 csl: apa.csl
+lang: de-DE
+documentclass: scrartcl
+classoption: 12pt, titlepage, smallheadings
+toc: true
+numbersections: true
 header-includes:
   - \usepackage[german=guillemets]{csquotes}
+  - \usepackage[defaultsans,osfigures,scale=0.95]{opensans}
   - \usepackage{libertine}
+  - \usepackage[width=13cm, height=22cm]{geometry}
+  - \usepackage[doublespacing]{setspace}
 ---
 
 Rund um @cohen1981, Seitenzahlen beziehen sich aber auf @cohen2008.
