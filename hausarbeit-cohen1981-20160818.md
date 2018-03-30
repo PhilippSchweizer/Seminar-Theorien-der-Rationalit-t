@@ -50,20 +50,20 @@ Abschließend wird eine Einschätzung gegeben, inwiefern die Kritik von Stich un
 
 Das Ziel von Cohens Paper ist ein begrifflicher Rahmen in dem kohärent über Probleme kognitiver Rationalität und der relevanten experimentellen Daten nachgedacht werden kann (vgl. S. 317). Sein Argument ist eine erkenntnistheoretische Intervention in einen psychologischen Diskurs, in dem empirische Untersuchung und Theoriebildung in ein Missverhältnis geraten sind.
 Für Cohen haben viele Psychologen eine falsche Vorstellung davon, wie eine normative Theorie des logischen Denkens zustande kommt, d.h. eine Theorie darüber, wann und von welchem Standpunkt eine Schlussfolgerung im Bereich des alltäglichen Denkens gültig oder ungültig, rational oder irrational zu gelten hat.
-Für Stich ist die Sache klar: Psychologen bewerten die folgernde Praxis ihrer Forschungssubjekte anhand des hochentwickelten und sich weiterentwickelnden Standards von Expertenkompetenz auf dem jeweiligen Gebiet. Demnach sei es nicht überraschend, das sich die Praxis von Laien in vielen Bereichen als deutlich fehlerhaft herausgestellt habe [vgl. @stich1981, S. 354]. Demgegenüber sieht Cohen das Problem gerade darin, normative Theorien, die für den Bereich des logischen Denkens benötigt werden, mit normativen Theorie zu verwechseln, wie man sie in Lehrbüchern der Logik und der Wahrscheinlichkeitstheorie finden kann. Welche Qualitäten, fragt er, müssen normative Theorien des logischen Denkens aufweisen?[^3]
+Für Stich ist die Sache klar: Psychologen bewerten die schlussfolgernde Praxis ihrer Forschungssubjekte anhand des hochentwickelten und sich weiterentwickelnden Standards von Expertenkompetenz auf dem jeweiligen Gebiet. Demnach sei es nicht überraschend, das sich die Praxis von Laien in vielen Bereichen als deutlich fehlerhaft herausgestellt habe [vgl. @stich1981, S. 354]. Demgegenüber sieht Cohen das Problem gerade darin, normative Theorien, die für den Bereich des logischen Denkens benötigt werden, mit normativen Theorie zu verwechseln, wie man sie in Lehrbüchern der Logik und der Wahrscheinlichkeitstheorie finden kann. Welche Qualitäten, fragt er, müssen normative Theorien des logischen Denkens aufweisen?[^3]
 
 Die Beweisgrundlage einer normativen Theorie bilden wirkliche Fälle logischen Denkens wie man es bei "Laien" beobachten kann.
 Solche Fälle nennt Cohen *Intuitionen*, also die *spontane und ungeschulte Neigung* ohne Beweis oder Schlussfolgerung über einen logischen oder probabilistischen Sachverhalt *zu urteilen* (S. 318).
 So kann zum Beispiel die Tätigkeit der Gerichte und die dort dokumentierten Laien-Intuitionen zu probabilistischen oder inferentiellen Problemen die Beweisgrundlage für eine Theorie dieser Intuitionen darstellen (S. 320).
-Cohen scheint sich die Theoriebildung so vorzustellen, dass Intuitionen einer Stichprobe zunächst katalogisiert und dann zu einem Set idealisiert werden. Ausgehend von diesem Set werden Ableitungsregeln generiert, in einem Verfahren das analog zum Bootstrapping in künstlicher Intelligenz funktioniert (S. 322). In diesem Verfahren werden Intuitionen und Ableitungsregeln in ein sogenanntes enges reflektives Gleichgewicht gebracht (S. 320), nach einem von @goodman1983 [S. 64] formulierten Prinzip:
+Cohen scheint sich die Theoriebildung so vorzustellen, dass Intuitionen einer Stichprobe zunächst katalogisiert und dann zu einem idealisiert Set zusammengefasst werden. Ausgehend von diesem Set werden Ableitungsregeln generiert, in einem Verfahren das analog zum Bootstrapping in künstlicher Intelligenz funktioniert (S. 322). In diesem Verfahren werden Intuitionen und Ableitungsregeln in ein sogenanntes enges reflektives Gleichgewicht gebracht (S. 320), nach einem von @goodman1983 [S. 64] formulierten Prinzip:
 
 > "Eine Regel wird geändert, wenn sie eine Ableitung zulässt, die wir nicht annehmen wollen; eine Ableitung wird zurückgewiesen wenn sie eine Regel verletzt, die wir nicht ändern wollen."[^4]
 
-Wir gewinnen so die *idealisierte normative* Theorie, die auf die Frage antwortet, was korrektes Denken unter idealen Bedingungen ausmacht.
+\noindent Wir gewinnen so die *idealisierte normative* Theorie, die auf die Frage antwortet, was korrektes Denken unter idealen Bedingungen ausmacht.
 Sie ist identisch mit der *idealisierten empirischen* Theorie, die auf die Frage antwortet, wie *normale* Menschen unter idealen Bedingungen deduktiv und probabilistisch schlussfolgern.
 Die Theorie beschreibt eine idealisierte deduktive und probabilistische Kompetenz die bei normalen Menschen einheitlich wirksam ist (vgl. S. 321). Diese Kompetenz kann also, vom Standpunkt einer normativen Theorie des Alltagsschließens nicht fehlerhaft sein, weil sie der theoretische Standard eben dieser Theorie ist. Sehr wohl kann sich die Kompetenz verändern (und sie ändert sich fortwährend), insofern die Theorie den normalen Veränderungen unterworfen ist, die sich aus dem wechselwirkendem Verhältnis von Theorie und Praxis zwangsläufig ergeben.
 
-Cohen behauptet nicht, dass Menschen keine Fehler machen, im Gegenteil. Aber diese Fehler können sinnvoll nur vor dem Hintergrund einer fehlerfreien Kompetenz erklärt werden. Dazu stellt Cohen der Kompetenz den Begriff der Performanz an die Seite. Die Performanz ist die, unter den Bedingungen verschiedenster Faktoren einer nicht-idealen Welt, zur Ausführung gebrachte Kompetenz.[^5]
+Cohen behauptet nicht, dass Menschen keine Fehler machen, im Gegenteil. Aber diese Fehler können sinnvoll nur vor dem Hintergrund einer fehlerfreien Kompetenz erklärt werden. Um seinen Punkt zu verdeutlichen, bedient er sich der Unterscheidung von Kompetenz und Performanz, die Chomsky für die Linguistik vorschlägt. Mithilfe dieser Unterscheidung erklärt Chomsky Fehler, die Sprecher machen, obwohl sie es besser wissen. Wir wissen ob ein Satz grammatikalisch falsch oder richtig ist, dass heißt nicht, dass wir nur grammatikalisch korrekte Sätze äußern. Für Cohen ist die Performanz die zur Ausführung gebrachte Kompetenz -- unter den Bedingungen verschiedenster Faktoren einer nicht-idealen Welt.[^5] So können wir alle möglichen Arten von Fehlern der inferentiellen Performanz aufgrund von Unaufmerksamkeit, beschränkter Kapazität des Gedächtnisses und anderen Faktoren erwarten. Aber eine solche Untersuchung kann genau sowenig eine irrationale oder fehlerhafte kognitive Kompetenz zutage fördern, wie eine Untersuchung grammatikalischer Fehler zeigen könnte, dass die linguistische Kompetenz eines Sprechers fehlerhaft wäre.
 
 
 <!---
@@ -162,23 +162,21 @@ Stichs Vorwurf verweist uns noch auf ein weiteres Problem in Cohens Argument. So
 # Der Relativismusvorwurf von Stich
 \vspace{-1.25em}
 
-
-- Stich sieht den springenden Punkt in Cohens Position in der Identität von *empirischer* psychologischer Theorie und *normativer* philosophischer Theorie.
-
-- bemüht den linguistik vergleich
+Stich nimmt die Kompetenz-Performanz Unterscheidung Cohens zum Ausgangspunkt einer *reductio ad absurdum*. 
 
 
 Wir haben gesehen, dass Stich eine Identität von normativer und empirischer Theorie bei Cohen feststellt.
 Und er zeigt anhand der Analogie zur Kompetenz-Performanz Unterscheidung in der Linguistik, die Cohen selbst wählt, wie Cohen sich das vorstellt.
-So können wir alle möglichen Arten von Fehlern der inferentiellen Performanz erwarten, aufgrund von Unaufmerksamkeit, beschränkter Kapazität des Gedächtnisses usw. Die Untersuchung dieser Fehler kann Aufschluss über die Art und Weise geben, wie wir unsere zugrunde liegende kognitive Kompetenz nutzen.
-Aber eine solche Untersuchung kann genau sowenig eine irrationale oder fehlerhafte kognitive Kompetenz zutage fördern, wie eine Untersuchung grammatikalischer Fehler zeigen könnte, dass die linguistische Kompetenz eines Sprechers fehlerhaft wäre.
 
-Nun behauptet Stich aber einen entscheidenden Unterschied zwischen linguistischer Kompetenz und kognitiver Kompetenz. Die linguistische Theorie nimmt für verschiedene Menschen, verschiedene Kompetenzen an. Cohen nehme hingegen an, dass im Bereich des logischen Denkens, alle Menschen die exakt gleiche Kompetenz hätten und führe als Begründung nur die vage und unbegründete Behauptung an, dass diese Kompetenz möglicherweise angeboren sei [vgl. -@stich1981, S. 354]. Stich weist die Vorstellung einer *angeborenen* Kompetenz zurück und entgegnet, dass es eine *empirische* Frage ist, ob Individuen, soziale Gruppen oder Kulturen sich in ihrer kognitiven Kompetenz unterscheiden [vgl. -@stich1985, S. 131].
+ Die Untersuchung dieser Fehler kann Aufschluss über die Art und Weise geben, wie wir unsere zugrunde liegende kognitive Kompetenz nutzen.
+
+
+Nun behauptet Stich aber einen entscheidenden Unterschied zwischen linguistischer Kompetenz und kognitiver Kompetenz. Die linguistische Theorie nimmt für verschiedene Menschen verschiedene Kompetenzen an. Cohen nehme hingegen an, dass im Bereich des logischen Denkens, alle Menschen die exakt gleiche Kompetenz hätten und führe als Begründung nur die vage und unbegründete Behauptung an, dass diese Kompetenz möglicherweise angeboren sei [vgl. -@stich1981, S. 354]. Stich weist die Vorstellung einer *angeborenen* Kompetenz zurück und entgegnet, dass es eine *empirische* Frage ist, ob Individuen, soziale Gruppen oder Kulturen sich in ihrer kognitiven Kompetenz unterscheiden [vgl. -@stich1985, S. 131].
 Stich hält es aufgrund der Ergebnisse der experimentellen Psychologie für sehr glaubhaft, dass es erhebliche individuelle Unterschiede in kognitiver Kompetenz gibt. Wenn Stich damit recht hat, dann läuft Cohens Position auf einen Relativismus hinaus. Und Cohen schlage laut Stich selber vor, interkulturelle Unterschiede der inferentiellen Kompetenz zu erwarten:
 
 > "To ascribe a cognitive competence, in this sense, within a given community is to characterise the content of a culturally or genetically inherited ability which, under ideal conditions, every member of the community would exercise in appropriate circumstances." (S. 321)
 
-Stich schließt: indem Maße, indem Kompetenz kulturell geerbt ist, sollten wir erwarten, dass Menschen aus unterschiedlichen Kulturen unterschiedliche kognitive Kompetenzen aufweisen [-@stich1981, S. 354].
+\noindent Stich schließt: indem Maße, indem Kompetenz kulturell geerbt ist, sollten wir erwarten, dass Menschen aus unterschiedlichen Kulturen unterschiedliche kognitive Kompetenzen aufweisen [-@stich1981, S. 354].
 Wenn wir mit Stich übereinstimmen, dass Cohen (1.) selber interkulturelle Unterschiede in der Kompetenz annimmt, und (2.) diese Unterschiede empirisch nachgewiesen wurden, müssen wir ihm ihm Recht geben, dass daraus logisch folgt, dass Cohen von mehreren normativen Theorien ausgeht. Aber wir müssen dafür nicht Stich folgen, wir können das auch bei Cohen explizit lesen, denn er spricht an mehreren Stellen von normativer Theorie im Plural oder mit unbestimmtem Artikel (s. Fn. 3). Daraus folgt aber nicht, dass Cohen einen epistemischen Relativismus vertritt. Denn die Frage nach der Gültigkeit *logischer*, *probabilistischer* oder auch *physikalischer* Normen ist von einer normativen Theorie des *Schlussfolgerns im Alltag* unberührt. Erstere beziehen ihre Normativität natürlich aus einem "reflektiven Gleichgewicht" von Experten.
 
 
@@ -195,7 +193,13 @@ Wenn wir mit Stich übereinstimmen, dass Cohen (1.) selber interkulturelle Unter
 
 
 
+<!---
 
+- Stich sieht den springenden Punkt in Cohens Position in der Identität von *empirischer* psychologischer Theorie und *normativer* philosophischer Theorie.
+
+- bemüht den linguistik vergleich
+
+-->
 
 
 
@@ -311,6 +315,13 @@ Zwei Arten von Kompetenz
 # Fazit
 \vspace{-1.25em}
 
+Ist es nicht einfach spitzfindig, dass Cohen so auf dem Unterschied Performanz und Kompetenz rumreitet? Von spitzfindigkeit kann keine Rede sein. Aber vielleicht ist es einseitig? Undialektisch? Oder Trivial?
+
+Warum muss die Kompetenz rein *positiv* bestimmt sein, warum kann ihre Bestimmung nicht auch *negative* Elemente enthalten? Dagegen lässt sich einwenden: es geht gerade um den positiven Kern, den wir natürlich nur mit einem klaren Bewusstsein für die Begrenztheit unserer Rationalität gewinnen (bounded rationality), die aber nicht in der Form von systematischen Fehlern theoretisiert wird, denn das wäre wirklich witzlos. Bleibt die Frage, ob es in der Konsequenz irgendeinen Unterschied macht, ob wir einen systematischen Fehler in der Kompetenz oder in der Performanz feststellen?
+
+Ein systematischer Fehler in der Performanz verweist uns aber bereits auf die Dialektik unserer Denkkompetenz mit ihrer Umgebung. So lässt sich 
+
+
 <!---
 
 ## Warum können wir keine Fehler in der Kompetenz feststellen, wenn wir uns anschauen *wie* das alltägliche Schließen funktioniert?
@@ -385,7 +396,7 @@ Was am Ende händisch gemacht werden muss:
 
 [^1]: Zwischen 1981 und 1987 veröffentliche die Zeitschrift *The Behavioral and Brain Sciences* 44 offene Peer-Kommentare zu Cohens ursprünglichem Artikel, sowie vier Antworten von Cohen [-@cohen1981b; -@cohen1983; -@cohen1984; -@cohen1987]. Seitenangaben zu Cohen ohne Jahr beziehen sich im Folgenden immer auf [-@cohen1981a].
 
-[^2]: Den Begriff der Rationalität verwendet Cohen im engen Sinn von "Güligkeit im deduktiven oder probabilistischen Denken" (vgl. S. 317).
+[^2]: Den Begriff der Rationalität verwendet Cohen im engen Sinn von "Gültigkeit im deduktiven oder probabilistischen Denken" (vgl. S. 317). Ich schließe mich diesem Begriffsgebrauch für dieses Essay an.
 
 [^3]: Interessanterweise spricht Cohen von Theorien im Plural oder von *einer* Theorie mit unbestimmtem Artikel (vgl. S. 317, 321, 322). Wir werden auf dieses Detail zurückkommen, wenn wir den Relativismusvorwurf von Stich diskutieren. 
 
